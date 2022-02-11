@@ -1,0 +1,77 @@
+/* Estilo da pag index.html*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    text-align: center;
+    color: #3b083b;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu li{
+
+    display: inline;
+    padding: 20px;
+}
+
+#menu li a{
+
+    text-decoration: none;
+    color:black;
+    font-size: 20px;
+}
+
+#menu li a:hover {
+    color: blueviolet;
+}
+
+.sobre{
+    padding: 110px;
+}
+
+.eu
+{
+    border-radius: 80px;
+    width: 400%;
+    padding: 40px;
+    
+}
+
+header{
+    background-color: #7FFFD4;
+    margin: 0;
+    padding: 30px;
+}
+
+.tm-social{
+
+    width: 30px;
+    height: 30px;
+}
+
+.center{
+    text-align: center;
+    padding-top: 15px;
+}
+
+p{
+    padding-left: 300px;
+}
+
+.video{
+    text-align: center;
+    padding-bottom: 20px;
+}
+/* Estilo da pag contato.html*/
+
